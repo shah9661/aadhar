@@ -1,6 +1,6 @@
-api_data_aadhar_biometric
-api_data_aadhar_demographic
-api_data_aadhar_enrolment
+api_data_aadhar_biometric/
+api_data_aadhar_demographic/
+api_data_aadhar_enrolment/
 .env
 env
 venv
